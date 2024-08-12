@@ -20,7 +20,7 @@ The model predicts missing pixels in pixelated images, demonstrating the effecti
 ### Future Work
 
 #### Part 1: Model Training
-- **Arbitrary size of the images** Train a model on arbitrary sized inmages.
+- **Arbitrary size of the images** Train a model on arbitrary sized images.
   
 #### Part 2: Web Application
 
