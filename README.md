@@ -13,7 +13,7 @@ For training models on 128x128 pixels images dataset from https://press.liacs.nl
 
 The first part focuses on training models using the UNet architecture.
 - **64x64 images**: The images are pixelated and then reconstructed by the trained model.
-- **128x128 images**: Train the model on 128x128 pixel images
+- **128x128 images**: Train the model on images of various sizes
 
 The model predicts missing pixels in pixelated images, demonstrating the effectiveness of the UNet architecture for this task. Performance metrics such as Mean Squared Error (MSE), Peak Signal-to-Noise Ratio (PSNR), and Structural Similarity Index (SSIM) are used to evaluate the model's performance.
 
